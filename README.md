@@ -1,2 +1,2 @@
-# go-printer
+# rinta
 A simple printer SDK by Golang.
